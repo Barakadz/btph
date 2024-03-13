@@ -2,7 +2,7 @@
   "name": "btph",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://www.groupe-hasnaoui.com/btph/",
+  "homepage": "https://barakadz.github.io/btph/",
   "type": "module",
   "scripts": {
     "dev": "vite",

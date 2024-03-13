@@ -49,7 +49,8 @@ const NavBar = () => {
                             <NavLink className="dropdown-item"     to="/candidature">Candidature spontanée</NavLink>
                             <NavLink className="dropdown-item"     to="/stage">Demande de stage</NavLink>
  
-                              
+                            <NavLink className="dropdown-item"     to="/users">Admin</NavLink>
+
                             </div>
                         </div>
 
